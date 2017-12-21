@@ -1,0 +1,21 @@
+[settings]
+default-encoding=ISO-8859-1
+default-font-size=16
+default-monospace-font-size=12
+enable-developer-extras=true
+enable-site-specific-quirks=true
+enable-javascript=true
+default-charset=ISO-8859-1
+last-window-width=1916
+last-window-height=1024
+location-entry-search=https://duckduckgo.com/?q=%s
+toolbar-items=TabNew,Back,NextForward,ReloadStop,BookmarkAdd,Location,Search,Trash,CompactMenu
+homepage=file:///usr/share/ubuntu-artwork/home/index.html
+tabhome=about:blank
+download-folder=/home/matheus/Downloads
+load-on-startup=MIDORI_STARTUP_DELAYED_PAGES
+new-tab-type=MIDORI_NEWTAB_BLANK_PAGE
+user-agent=Mozilla/5.0 (X11; Linux) AppleWebKit/538.15 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/538.15 Midori/0.5
+
+[extensions]
+libadblock.so=true
